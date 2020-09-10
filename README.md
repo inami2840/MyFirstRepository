@@ -1,9 +1,1 @@
-# MyFirstRepositor
-
-## 22222
-
-### 3333333
-
-Hello, World!
-
-[Raspberry Pi](./rpi.md)
+# 201844081/박형진/C반
